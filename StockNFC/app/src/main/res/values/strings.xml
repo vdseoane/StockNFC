@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StockNFC</string>
+    <string name="info">Bienvenido a la pantalla de escritura de etiquetas NFC, complete la información y pulse el botón</string>
+    <string name="noTag">No se ha detectado la pegatina NFC</string>
+    <string name="nfc_ready">NFC operativo</string>
+    <string name="nfc_not_ready">NFC deshabilitado o inexistente</string>
+    <string name="ok_write">Escritura correcta</string>
+    <string name="error_write">Error al escribir en la pegatina</string>
+    <string name="ok_detected">Etiqueta detectada</string>
+    <string name="menu_lectura">Leer etiqueta</string>
+    <string name="menu_escritura">Escribir etiqueta</string>
+    <string name="infoLectura">Bienvenido a la pantalla de lectura de etiquetas NFC, acerque el dispositivo a la pegatina para obtener la información</string>
+</resources>
